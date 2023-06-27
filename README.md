@@ -1,7 +1,7 @@
 <h1 align="center">Hola👋, Me llamo Erasmo Montufar</h1>
 <h3 align="center">soy un Estudiante de Ingenieria de Sistemas e Informatica</h3>
 
-- 👨‍💻 All of my projects are available at [checas.com.pe](checas.com.pe)
+- 👨‍💻 All of my projects are available at [checas.com.pe](www.checas.com.pe)
 
 - 💬 Ask me about **html, css3, javascript, react.js, node.js, mysql, sql server, php**
 
