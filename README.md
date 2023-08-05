@@ -1,5 +1,5 @@
-<h1 align="center">Hola👋, Me llamo Erasmo Montufar</h1>
-<h3 align="center">soy un Estudiante de Ingenieria de Sistemas e Informatica</h3>
+<h1 align="center">Hello 👋, my name is Erasmo Montufar</h1>
+<h3 align="center">I am a Systems Engineering and Informatics Student</h3>
 
 - 👨‍💻 All of my projects are available at [Portafolio](https://checas.com.pe/)
 
