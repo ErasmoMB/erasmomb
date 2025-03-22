@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erasmo Montufar Barrientos</h1>
-<h3 align="center">I am an 8th-semester student of Systems Engineering and Computer Science, and a Full Stack Developer. I have experience in web development and API consumption, working with technologies such as Python, Flask, React, Laravel, and Vue. Currently, I am a Research Assistant at the Universidad de Ciencias y Humanidades, where I have developed innovative projects like a virtual assistant with intelligent vision. My passion is to create advanced technological solutions and continue growing in the field of artificial intelligence.</h3>
+<h3 align="center">I am an 9th-semester student of Systems Engineering and Computer Science, and a Full Stack Developer. I have experience in web development and API consumption, working with technologies such as Python, Flask, React, Laravel, and Vue. Currently, I am a Research Assistant at the Universidad de Ciencias y Humanidades, where I have developed innovative projects like a virtual assistant with intelligent vision. My passion is to create advanced technological solutions and continue growing in the field of artificial intelligence.</h3>
 
 - 🌱 I’m currently learning **TensorFlow, PyTorch, Artificial Intelligence courses**
 
