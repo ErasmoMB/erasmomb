@@ -2,7 +2,7 @@
 <h3 align="center">I am a 10th-semester student of Systems Engineering and Computer Science. I enjoy programming, especially with Python and Artificial Intelligence, as well as working with APIs. Currently, I am a Research Assistant at the Universidad de Ciencias y Humanidades, where I have developed projects such as a virtual assistant with intelligent vision.</h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence, TensorFlow, PyTorch**  
-- 👨‍💻 My projects are available at [https://emb.com.pe/](https://emb.com.pe/)  
+- 👨‍💻 My projects are available at [erasmomontufar.com](https://erasmomontufar.com/)  
 - 💬 Ask me about **Python, APIs, AI, Web Development**  
 - 📫 Contact me: **montufarbe@gmail.com**  
 
