@@ -14,7 +14,7 @@ Hi, I'm Erasmo Montufar Barrientos!
 ```
 erasmomb@github
 -------------------------
-💻 10th semester Systems Engineering student specializing in Web Development and AI
+💻 10th semester Systems Engineering student focused on Web Development and AI.
 📝 Strong interest in Python, APIs, and Artificial Intelligence
 🔭 Working on backend development with Flask and React
 🌱 Learning about AI integration and process automation
@@ -87,8 +87,3 @@ erasmomb@github
   </td>
   </tr>
 </table>
-
-
-------
-Credits: [erasmomb](https://github.com/erasmomb)  
-Last Edited On: 20/11/2024
