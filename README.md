@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Erasmo Montufar Barrientos!
+Hi, I'm Erasmo Montufar!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
