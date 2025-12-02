@@ -14,7 +14,7 @@ Hi, I'm Erasmo Montufar!
 ```
 erasmomb@github
 -------------------------
-💻 10th semester Systems Engineering student focused on Web and AI.
+🎓 Systems Engineering Graduate with a focus on Web Development and AI.
 📝 Strong interest in Python, APIs, and Artificial Intelligence
 🔭 Working on backend development with Flask and React
 🌱 Learning about AI integration and process automation
