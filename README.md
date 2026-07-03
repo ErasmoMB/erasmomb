@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0f13,100:15181e&height=160&section=header&text=Erasmo%20Montufar%20Barrientos&fontSize=34&fontColor=e6edf3&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer%20%C2%B7%20AI%20%26%20Automation&descAlignY=62&descSize=16&descColor=7cc4ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0f13,100:15181e&height=180&section=header&text=Erasmo%20Montufar%20Barrientos&fontSize=34&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20%26%20Automation&descAlignY=54&descSize=16&descColor=7cc4ff" width="100%"/>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4A9EFF&center=true&vCenter=true&width=560&lines=Systems+Engineering+Graduate;Full+Stack+Web+Developer;AI+%26+Automation+Enthusiast;Python+%7C+React+%7C+FastAPI+%7C+RAG;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
 </a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ErasmoMB&style=flat-square&color=4a9eff&label=Visitas+al+perfil" alt="Contador de visitas"/>
 
 </div>
 
@@ -33,30 +37,38 @@ export async function construir(idea: Idea): Promise<Producto> {
 
 <br/>
 
-### 🛠️ Stack
+## 🛠️ Stack
 
 <p align="left">
+  <b>Lenguajes</b><br/>
   <img src="https://img.shields.io/badge/Python-0d0f13?style=for-the-badge&logo=python&logoColor=4A9EFF&labelColor=0d0f13&color=15181e" />
   <img src="https://img.shields.io/badge/JavaScript-0d0f13?style=for-the-badge&logo=javascript&logoColor=4A9EFF&labelColor=0d0f13&color=15181e" />
   <img src="https://img.shields.io/badge/TypeScript-0d0f13?style=for-the-badge&logo=typescript&logoColor=4A9EFF&labelColor=0d0f13&color=15181e" />
   <img src="https://img.shields.io/badge/HTML5-0d0f13?style=for-the-badge&logo=html5&logoColor=4A9EFF&labelColor=0d0f13&color=15181e" />
   <img src="https://img.shields.io/badge/CSS3-0d0f13?style=for-the-badge&logo=css3&logoColor=4A9EFF&labelColor=0d0f13&color=15181e" />
 </p>
+
 <p align="left">
+  <b>Frameworks & ML</b><br/>
   <img src="https://img.shields.io/badge/React-0d0f13?style=for-the-badge&logo=react&logoColor=C792EA&labelColor=0d0f13&color=15181e" />
   <img src="https://img.shields.io/badge/Next.js-0d0f13?style=for-the-badge&logo=nextdotjs&logoColor=C792EA&labelColor=0d0f13&color=15181e" />
   <img src="https://img.shields.io/badge/Flask-0d0f13?style=for-the-badge&logo=flask&logoColor=C792EA&labelColor=0d0f13&color=15181e" />
   <img src="https://img.shields.io/badge/FastAPI-0d0f13?style=for-the-badge&logo=fastapi&logoColor=C792EA&labelColor=0d0f13&color=15181e" />
   <img src="https://img.shields.io/badge/TensorFlow-0d0f13?style=for-the-badge&logo=tensorflow&logoColor=C792EA&labelColor=0d0f13&color=15181e" />
+  <img src="https://img.shields.io/badge/scikit--learn-0d0f13?style=for-the-badge&logo=scikitlearn&logoColor=C792EA&labelColor=0d0f13&color=15181e" />
 </p>
+
 <p align="left">
+  <b>Datos, Cloud & Infra</b><br/>
   <img src="https://img.shields.io/badge/MongoDB-0d0f13?style=for-the-badge&logo=mongodb&logoColor=3FB950&labelColor=0d0f13&color=15181e" />
   <img src="https://img.shields.io/badge/PostgreSQL-0d0f13?style=for-the-badge&logo=postgresql&logoColor=3FB950&labelColor=0d0f13&color=15181e" />
+  <img src="https://img.shields.io/badge/MySQL-0d0f13?style=for-the-badge&logo=mysql&logoColor=3FB950&labelColor=0d0f13&color=15181e" />
   <img src="https://img.shields.io/badge/AWS-0d0f13?style=for-the-badge&logo=amazonaws&logoColor=3FB950&labelColor=0d0f13&color=15181e" />
   <img src="https://img.shields.io/badge/Firebase-0d0f13?style=for-the-badge&logo=firebase&logoColor=3FB950&labelColor=0d0f13&color=15181e" />
-  <img src="https://img.shields.io/badge/MySQL-0d0f13?style=for-the-badge&logo=mysql&logoColor=3FB950&labelColor=0d0f13&color=15181e" />
 </p>
+
 <p align="left">
+  <b>Herramientas</b><br/>
   <img src="https://img.shields.io/badge/Git-0d0f13?style=for-the-badge&logo=git&logoColor=E5C07B&labelColor=0d0f13&color=15181e" />
   <img src="https://img.shields.io/badge/VS%20Code-0d0f13?style=for-the-badge&logo=visualstudiocode&logoColor=E5C07B&labelColor=0d0f13&color=15181e" />
   <img src="https://img.shields.io/badge/Postman-0d0f13?style=for-the-badge&logo=postman&logoColor=E5C07B&labelColor=0d0f13&color=15181e" />
@@ -66,7 +78,7 @@ export async function construir(idea: Idea): Promise<Producto> {
 
 <br/>
 
-### 📌 Proyectos destacados
+## 📌 Proyectos destacados
 
 | Proyecto | Stack | Resultado clave |
 |---|---|---|
@@ -82,7 +94,7 @@ export async function construir(idea: Idea): Promise<Producto> {
 
 <br/>
 
-### 📊 Stats
+## 📊 Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ErasmoMB&show_icons=true&bg_color=0d0f13&title_color=e6edf3&text_color=8b949e&icon_color=4a9eff&border_color=23272f&hide_border=false" />
@@ -94,7 +106,15 @@ export async function construir(idea: Idea): Promise<Producto> {
 
 <br/>
 
-### 📬 Contacto
+## 🏆 Trofeos
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ErasmoMB&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+</p>
+
+<br/>
+
+## 📬 Contacto
 
 <p align="center">
 Estoy <b>disponible</b> para proyectos donde la IA tenga que funcionar <i>de verdad</i>.
