@@ -1,18 +1,22 @@
-::: {align="center"}
-# Erasmo MB
+<div align="center">
 
-``` bash
+# Hola, soy Erasmo Montufar 👋
+
+### Full Stack + AI Engineer — Lima, Perú
+
+```bash
 > booting portfolio...
 ✔ workspace loaded
 ✔ developer found
 ```
-:::
 
-------------------------------------------------------------------------
+</div>
+
+---
 
 ## 📂 workspace
 
-``` text
+```text
 📦 erasmo-workspace
 ├── 📄 about.ts
 ├── 📄 projects.json
@@ -22,17 +26,10 @@
 └── 💻 terminal
 ```
 
-```{=html}
 <details open>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}📄 about.ts`</b>`{=html}
-```{=html}
-</summary>
-```
-``` ts
+<summary><b>📄 about.ts</b></summary>
+
+```ts
 export const me = {
   name: "Erasmo Montufar",
   role: "Full Stack + AI Engineer",
@@ -50,42 +47,26 @@ export const me = {
 };
 ```
 
-```{=html}
 </details>
-```
-```{=html}
+
 <details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}📄 projects.json`</b>`{=html}
-```{=html}
-</summary>
-```
-``` json
+<summary><b>📄 projects.json</b></summary>
+
+```json
 {
-  "ChevasTextil ERP":"Building",
-  "Legal AI":"Production",
-  "Scientific Dashboard":"Production",
-  "AWS Scanner":"Production"
+  "ChevasTextil ERP": "Building",
+  "Legal AI": "Production",
+  "Scientific Dashboard": "Production",
+  "AWS Scanner": "Production"
 }
 ```
 
-```{=html}
 </details>
-```
-```{=html}
+
 <details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}🐍 ai.py`</b>`{=html}
-```{=html}
-</summary>
-```
-``` python
+<summary><b>🐍 ai.py</b></summary>
+
+```python
 class Erasmo:
 
     def build(self, idea):
@@ -97,20 +78,12 @@ class Erasmo:
         )
 ```
 
-```{=html}
 </details>
-```
-```{=html}
+
 <details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}⚙️ stack.yml`</b>`{=html}
-```{=html}
-</summary>
-```
-``` yaml
+<summary><b>⚙️ stack.yml</b></summary>
+
+```yaml
 languages:
   - Python
   - TypeScript
@@ -132,20 +105,12 @@ cloud:
   - Docker
 ```
 
-```{=html}
 </details>
-```
-```{=html}
+
 <details open>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}💻 terminal`</b>`{=html}
-```{=html}
-</summary>
-```
-``` console
+<summary><b>💻 terminal</b></summary>
+
+```console
 erasmo@github:~$ help
 
 about
@@ -167,6 +132,28 @@ LinkedIn  : linkedin.com/in/erasmomb
 GitHub    : github.com/ErasmoMB
 ```
 
-```{=html}
 </details>
-```
+
+---
+
+<div align="center">
+
+## 🛠️ Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## 📫 Contacto
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:montufarbe@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erasmomb)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErasmoMB)
+
+</div>
