@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0572,50:ab0664,100:00C9FF&height=220&section=header&text=Erasmo%20Montufar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2B%20AI%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0572,50:ab0664,100:ff2e63&height=220&section=header&text=Erasmo%20Montufar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2B%20AI%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://linkedin.com/in/erasmomb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://wa.me/51968111314"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
@@ -153,7 +153,7 @@ GitHub    : github.com/ErasmoMB
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ErasmoMB&theme=tokyonight&hide_border=true&background=0d1117&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF" />
+<img src="https://streak-stats.demolab.com?user=ErasmoMB&theme=tokyonight&hide_border=true&background=0d1117&ring=ff2e63&fire=ff2e63&currStreakLabel=ff2e63" />
 
 </div>
 
@@ -162,6 +162,6 @@ GitHub    : github.com/ErasmoMB
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:6a0572&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e63,100:6a0572&height=100&section=footer"/>
 
 </div>
