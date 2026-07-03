@@ -1,89 +1,117 @@
-<h1 align="center">
-Hi, I'm Erasmo Montufar!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<div align="center">
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Systems+Engineering+Student;Full+Stack+Web+Developer;AI+%26+Automation+Enthusiast;Python+%7C+React+%7C+Flask+Developer;Always+learning+new+things&center=true&width=500&height=45"></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0f13,100:15181e&height=160&section=header&text=Erasmo%20Montufar%20Barrientos&fontSize=34&fontColor=e6edf3&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer%20%C2%B7%20AI%20%26%20Automation&descAlignY=62&descSize=16&descColor=7cc4ff" width="100%"/>
 
-<hr>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4A9EFF&center=true&vCenter=true&width=560&lines=Systems+Engineering+Graduate;Full+Stack+Web+Developer;AI+%26+Automation+Enthusiast;Python+%7C+React+%7C+FastAPI+%7C+RAG;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+</a>
 
-<img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFta2VsOGt4Z2Z3NGRoNXFxdGRldXZnbzUxbWpubTdpOTQycmkzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding animation" width="320" />
+</div>
 
+<br/>
+
+```ts
+// sobre-mi.ts — quién soy y qué hago
+export const desarrollador = {
+  nombre: "Erasmo Montufar Barrientos",
+  alias: "Erasmo MB",
+  rol: "Full-Stack Developer · IA",
+  base: "Lima, Perú",
+  foco: ["ML en producción", "LLMs & RAG", "cloud"],
+  disponible: true,
+};
+
+export async function construir(idea: Idea): Promise<Producto> {
+  const datos  = await entender(idea.problema);
+  const modelo = await entrenar(datos);              // scikit-learn · TensorFlow
+  const api    = exponer(modelo, { runtime: "FastAPI" });
+  return desplegar({ api, ui: "React", infra: "AWS" });
+}
+
+// del modelo de datos a la interfaz — sin intermediarios
 ```
-erasmomb@github
--------------------------
-🎓 Systems Engineering Graduate with a focus on Web Development and AI.
-📝 Strong interest in Python, APIs, and Artificial Intelligence
-🔭 Working on backend development with Flask and React
-🌱 Learning about AI integration and process automation
-🚩 Interested in Full Stack Development with AI implementation
-```
 
-<br clear="left"/>
+<br/>
 
-<hr>
+### 🛠️ Stack
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-     
-## 🛠️ My Tools
-
-### 👨‍💻 Programming Languages
-
-<p>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"></a>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-0d0f13?style=for-the-badge&logo=python&logoColor=4A9EFF&labelColor=0d0f13&color=15181e" />
+  <img src="https://img.shields.io/badge/JavaScript-0d0f13?style=for-the-badge&logo=javascript&logoColor=4A9EFF&labelColor=0d0f13&color=15181e" />
+  <img src="https://img.shields.io/badge/TypeScript-0d0f13?style=for-the-badge&logo=typescript&logoColor=4A9EFF&labelColor=0d0f13&color=15181e" />
+  <img src="https://img.shields.io/badge/HTML5-0d0f13?style=for-the-badge&logo=html5&logoColor=4A9EFF&labelColor=0d0f13&color=15181e" />
+  <img src="https://img.shields.io/badge/CSS3-0d0f13?style=for-the-badge&logo=css3&logoColor=4A9EFF&labelColor=0d0f13&color=15181e" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/React-0d0f13?style=for-the-badge&logo=react&logoColor=C792EA&labelColor=0d0f13&color=15181e" />
+  <img src="https://img.shields.io/badge/Next.js-0d0f13?style=for-the-badge&logo=nextdotjs&logoColor=C792EA&labelColor=0d0f13&color=15181e" />
+  <img src="https://img.shields.io/badge/Flask-0d0f13?style=for-the-badge&logo=flask&logoColor=C792EA&labelColor=0d0f13&color=15181e" />
+  <img src="https://img.shields.io/badge/FastAPI-0d0f13?style=for-the-badge&logo=fastapi&logoColor=C792EA&labelColor=0d0f13&color=15181e" />
+  <img src="https://img.shields.io/badge/TensorFlow-0d0f13?style=for-the-badge&logo=tensorflow&logoColor=C792EA&labelColor=0d0f13&color=15181e" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-0d0f13?style=for-the-badge&logo=mongodb&logoColor=3FB950&labelColor=0d0f13&color=15181e" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0d0f13?style=for-the-badge&logo=postgresql&logoColor=3FB950&labelColor=0d0f13&color=15181e" />
+  <img src="https://img.shields.io/badge/AWS-0d0f13?style=for-the-badge&logo=amazonaws&logoColor=3FB950&labelColor=0d0f13&color=15181e" />
+  <img src="https://img.shields.io/badge/Firebase-0d0f13?style=for-the-badge&logo=firebase&logoColor=3FB950&labelColor=0d0f13&color=15181e" />
+  <img src="https://img.shields.io/badge/MySQL-0d0f13?style=for-the-badge&logo=mysql&logoColor=3FB950&labelColor=0d0f13&color=15181e" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-0d0f13?style=for-the-badge&logo=git&logoColor=E5C07B&labelColor=0d0f13&color=15181e" />
+  <img src="https://img.shields.io/badge/VS%20Code-0d0f13?style=for-the-badge&logo=visualstudiocode&logoColor=E5C07B&labelColor=0d0f13&color=15181e" />
+  <img src="https://img.shields.io/badge/Postman-0d0f13?style=for-the-badge&logo=postman&logoColor=E5C07B&labelColor=0d0f13&color=15181e" />
+  <img src="https://img.shields.io/badge/Figma-0d0f13?style=for-the-badge&logo=figma&logoColor=E5C07B&labelColor=0d0f13&color=15181e" />
+  <img src="https://img.shields.io/badge/Google%20AI-0d0f13?style=for-the-badge&logo=google&logoColor=E5C07B&labelColor=0d0f13&color=15181e" />
 </p>
 
-### 🧰 Frameworks and Libraries
+<br/>
 
-<p>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
-    <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></a>
-    <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
-</p>
+### 📌 Proyectos destacados
 
-### 🗄️ Databases and Cloud Hosting
+| Proyecto | Stack | Resultado clave |
+|---|---|---|
+| **[Dashboard ML de KPIs científicos](https://github.com/ErasmoMB)** — IntiLab UCH | React · Python · scikit-learn · FastAPI | `val_accuracy 0.94` · en producción |
+| **[Asesor legal peruano con Gemini](https://github.com/ErasmoMB)** — RAG sobre normativa oficial | Next.js · Gemini · RAG · Vector DB | `groundedness 0.91` · en producción |
+| **[Traductor de lengua de señas](https://github.com/ErasmoMB)** — gestos → texto en tiempo real | MediaPipe · TensorFlow · React | `accuracy 0.93` · 30 FPS |
+| **[App Android IoT con AR y ML](https://github.com/ErasmoMB)** — monitoreo predictivo de motores | Kotlin · Firebase · ARCore · TF Lite | alertas predictivas en tiempo real |
+| **[Detección de vulnerabilidades AWS](https://github.com/ErasmoMB)** — escaneo y priorización de riesgos | AWS · Python · Lambda · boto3 | escaneo automático por riesgo |
+| **[Plataforma de bienestar emocional](https://github.com/ErasmoMB)** — acompañamiento con IA | React · Node · LLM · PostgreSQL | MVP en validación |
 
-<p>
-    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-</p>
+<!-- Cuando publiques tu Portafolio IDE, reemplaza el link de abajo por la URL real -->
+<p>💡 Ve el detalle completo (problema, solución, mi rol) de cada proyecto en mi <a href="#">Portafolio IDE</a> — próximamente en línea.</p>
 
-### 💻 Software and Tools
+<br/>
 
-<p>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
-    <a href="#"><img alt="Laragon" src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white"></a>
-    <a href="#"><img alt="Google AI" src="https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white"></a>
-</p>
-     
-   </td>
-    <td width="50%" valign="top">
-  
-## 📄📜 Stats
+### 📊 Stats
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=erasmomb&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" />
-  <br/>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=erasmomb&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&border=30363d"/>
-  <br/>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erasmomb&langs_count=8&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_color=30363d" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ErasmoMB&show_icons=true&bg_color=0d0f13&title_color=e6edf3&text_color=8b949e&icon_color=4a9eff&border_color=23272f&hide_border=false" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErasmoMB&layout=compact&langs_count=8&bg_color=0d0f13&title_color=e6edf3&text_color=8b949e&border_color=23272f&hide_border=false" />
 </p>
-  
-  </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ErasmoMB&background=0d0f13&ring=4a9eff&fire=4a9eff&currStreakLabel=e6edf3&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=6b7280&border=23272f&hide_border=false" />
+</p>
+
+<br/>
+
+### 📬 Contacto
+
+<p align="center">
+Estoy <b>disponible</b> para proyectos donde la IA tenga que funcionar <i>de verdad</i>.
+</p>
+
+<p align="center">
+  <a href="mailto:montufarbe@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0d0f13?style=for-the-badge&logo=gmail&logoColor=4A9EFF&labelColor=0d0f13&color=15181e" />
+  </a>
+  <a href="https://www.linkedin.com/in/erasmomb/">
+    <img src="https://img.shields.io/badge/LinkedIn-0d0f13?style=for-the-badge&logo=linkedin&logoColor=4A9EFF&labelColor=0d0f13&color=15181e" />
+  </a>
+  <a href="https://github.com/ErasmoMB">
+    <img src="https://img.shields.io/badge/GitHub-0d0f13?style=for-the-badge&logo=github&logoColor=4A9EFF&labelColor=0d0f13&color=15181e" />
+  </a>
+</p>
+
+<p align="center"><sub>// respondo en &lt; 24 h</sub></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:15181e,100:0d0f13&height=100&section=footer" width="100%"/>
