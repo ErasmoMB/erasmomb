@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Erasmo%20Montufar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2B%20AI%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0572,50:ab0664,100:ff2e63&height=220&section=header&text=Erasmo%20Montufar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2B%20AI%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://linkedin.com/in/erasmomb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://wa.me/51968111314"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=Building+AI+Applications;LLMs+%2B+RAG+Systems;From+idea+%E2%86%92+architecture+%E2%86%92+production;Full+Stack+%2B+AI+Engineer+%7C+Lima%2C+Peru" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=ff2e63&center=true&vCenter=true&width=600&lines=Building+AI+Applications;LLMs+%2B+RAG+Systems;From+idea+%E2%86%92+architecture+%E2%86%92+production;Full+Stack+%2B+AI+Engineer+%7C+Lima%2C+Peru" alt="Typing SVG" />
 
 </div>
 
@@ -153,7 +153,7 @@ GitHub    : github.com/ErasmoMB
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ErasmoMB&theme=tokyonight&hide_border=true&background=0d1117&ring=00c9ff&fire=00c9ff&currStreakLabel=00c9ff" />
+<img src="https://streak-stats.demolab.com?user=ErasmoMB&theme=tokyonight&hide_border=true&background=0d1117&ring=ff2e63&fire=ff2e63&currStreakLabel=ff2e63" />
 
 </div>
 
@@ -162,6 +162,6 @@ GitHub    : github.com/ErasmoMB
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:0f2027&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e63,100:6a0572&height=100&section=footer"/>
 
 </div>
