@@ -1,188 +1,172 @@
-# 💻 Erasmo MB --- Interactive GitHub Profile
+::: {align="center"}
+# Erasmo MB
 
-> A GitHub profile designed as if it were a VS Code workspace.
+``` bash
+> booting portfolio...
+✔ workspace loaded
+✔ developer found
+```
+:::
+
+------------------------------------------------------------------------
+
+## 📂 workspace
 
 ``` text
-📁 portfolio
-│
-├── about.ts
-├── projects.json
-├── ai.py
-├── stack.yml
-├── experience.log
-├── contact.md
-└── terminal.sh
+📦 erasmo-workspace
+├── 📄 about.ts
+├── 📄 projects.json
+├── 🐍 ai.py
+├── ⚙️ stack.yml
+├── 📄 contact.md
+└── 💻 terminal
 ```
 
-------------------------------------------------------------------------
-
-## `about.ts`
-
+```{=html}
+<details open>
+```
+```{=html}
+<summary>
+```
+`<b>`{=html}📄 about.ts`</b>`{=html}
+```{=html}
+</summary>
+```
 ``` ts
-export const developer = {
-  name: "Erasmo Montufar Barrientos",
-  alias: "Erasmo MB",
-  role: "Full Stack Engineer + AI Engineer",
+export const me = {
+  name: "Erasmo Montufar",
+  role: "Full Stack + AI Engineer",
   location: "Lima, Peru",
-  focus: [
-    "Artificial Intelligence",
-    "LLMs & RAG",
-    "Cloud Computing",
-    "Computer Vision",
-    "Production Systems"
-  ],
-  mission: "Transform ideas into software people actually use.",
-  available: true
-};
 
-export async function build(idea: Problem) {
-  const model = await train(idea);
-  return deploy({
-    frontend: "Next.js",
-    backend: "FastAPI",
-    cloud: "AWS"
-  });
-}
+  building: [
+    "AI Applications",
+    "LLMs + RAG",
+    "Cloud Platforms",
+    "Modern SaaS"
+  ],
+
+  philosophy:
+    "From idea → architecture → production."
+};
 ```
 
-------------------------------------------------------------------------
-
-## `projects.json`
-
+```{=html}
+</details>
+```
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<b>`{=html}📄 projects.json`</b>`{=html}
+```{=html}
+</summary>
+```
 ``` json
 {
-  "featured": [
-    {
-      "name": "ChevasTextil ERP",
-      "status": "building",
-      "stack": ["Next.js","FastAPI","PostgreSQL","AWS"]
-    },
-    {
-      "name": "Legal AI Peru",
-      "status": "production",
-      "stack": ["Gemini","RAG","Vector DB"]
-    },
-    {
-      "name": "Scientific Dashboard",
-      "status": "production",
-      "stack": ["React","FastAPI","Scikit-Learn"]
-    },
-    {
-      "name": "AWS Vulnerability Scanner",
-      "status": "production",
-      "stack": ["Python","Lambda","boto3"]
-    }
-  ]
+  "ChevasTextil ERP":"Building",
+  "Legal AI":"Production",
+  "Scientific Dashboard":"Production",
+  "AWS Scanner":"Production"
 }
 ```
 
-------------------------------------------------------------------------
-
-## `ai.py`
-
+```{=html}
+</details>
+```
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<b>`{=html}🐍 ai.py`</b>`{=html}
+```{=html}
+</summary>
+```
 ``` python
-class Engineer:
+class Erasmo:
 
-    def __init__(self):
-        self.specialties = [
-            "Machine Learning",
-            "Computer Vision",
-            "LLMs",
-            "RAG",
-            "Cloud AI"
-        ]
-
-    def solve(self, problem):
-        return ProductionSoftware(
+    def build(self, idea):
+        return deploy(
             frontend="Next.js",
             backend="FastAPI",
-            cloud="AWS",
-            ai="TensorFlow"
+            ai="TensorFlow",
+            cloud="AWS"
         )
 ```
 
-------------------------------------------------------------------------
-
-## `stack.yml`
-
+```{=html}
+</details>
+```
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<b>`{=html}⚙️ stack.yml`</b>`{=html}
+```{=html}
+</summary>
+```
 ``` yaml
 languages:
   - Python
   - TypeScript
   - JavaScript
-  - Kotlin
 
-frontend:
+frameworks:
   - React
   - Next.js
-  - Tailwind CSS
-
-backend:
   - FastAPI
-  - Flask
-  - Node.js
 
 ai:
   - TensorFlow
   - Scikit-Learn
-  - MediaPipe
   - Gemini
   - OpenAI
 
 cloud:
   - AWS
-  - Firebase
   - Docker
-
-database:
-  - PostgreSQL
-  - MongoDB
-  - MySQL
 ```
 
-------------------------------------------------------------------------
-
-## Terminal
-
-``` bash
-$ help
+```{=html}
+</details>
+```
+```{=html}
+<details open>
+```
+```{=html}
+<summary>
+```
+`<b>`{=html}💻 terminal`</b>`{=html}
+```{=html}
+</summary>
+```
+``` console
+erasmo@github:~$ help
 
 about
 projects
-skills
-experience
+stack
 contact
-github
-linkedin
-clear
-theme
 
-$ whoami
+erasmo@github:~$ whoami
 
 Full Stack Engineer
 AI Engineer
-Cloud Developer
 
-Building AI products for real-world problems.
+Building software that reaches production.
 
-$ sudo hire erasmo
+erasmo@github:~$ contact
 
-Permission granted.
-
-Opening contact.md...
+Email     : montufarbe@gmail.com
+LinkedIn  : linkedin.com/in/erasmomb
+GitHub    : github.com/ErasmoMB
 ```
 
-------------------------------------------------------------------------
-
-## `contact.md`
-
-``` md
-Email:
-montufarbe@gmail.com
-
-LinkedIn:
-https://linkedin.com/in/erasmomb
-
-GitHub:
-https://github.com/ErasmoMB
+```{=html}
+</details>
 ```
