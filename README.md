@@ -1,18 +1,18 @@
 <div align="center">
 
-# Hola, soy Erasmo Montufar 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Erasmo%20Montufar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2B%20AI%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
-### Full Stack + AI Engineer — Lima, Perú
+<a href="https://linkedin.com/in/erasmomb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:montufarbe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/ErasmoMB"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-```bash
-> booting portfolio...
-✔ workspace loaded
-✔ developer found
-```
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=Building+AI+Applications;LLMs+%2B+RAG+Systems;From+idea+%E2%86%92+architecture+%E2%86%92+production;Full+Stack+%2B+AI+Engineer+%7C+Lima%2C+Peru" alt="Typing SVG" />
 
 </div>
 
----
+<br/>
 
 ## 📂 workspace
 
@@ -134,26 +134,34 @@ GitHub    : github.com/ErasmoMB
 
 </details>
 
----
-
-<div align="center">
+<br/>
 
 ## 🛠️ Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<div align="center">
 
-## 📫 Contacto
+<img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,fastapi,tensorflow,sklearn,aws,docker,git,githubactions&perline=6" />
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:montufarbe@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erasmomb)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErasmoMB)
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ErasmoMB&theme=tokyonight&hide_border=true&background=0d1117&ring=00c9ff&fire=00c9ff&currStreakLabel=00c9ff" />
+
+</div>
+
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:0f2027&height=100&section=footer"/>
 
 </div>
