@@ -1,113 +1,188 @@
-<div align="center"> <sub><i>who is this guy anyway? try:</i></sub>
+# 💻 Erasmo MB --- Interactive GitHub Profile
 
-$ man erasmo
+> A GitHub profile designed as if it were a VS Code workspace.
 
-</div>
+``` text
+📁 portfolio
+│
+├── about.ts
+├── projects.json
+├── ai.py
+├── stack.yml
+├── experience.log
+├── contact.md
+└── terminal.sh
+```
 
-ERASMO(1)                    Developer Manual                    ERASMO(1)
+------------------------------------------------------------------------
 
-NAME
-       erasmo — Full Stack Engineer focused on AI-powered products
+## `about.ts`
 
-SYNOPSIS
-       erasmo [--build PROJECT] [--stack] [--deploy] [--contact]
+``` ts
+export const developer = {
+  name: "Erasmo Montufar Barrientos",
+  alias: "Erasmo MB",
+  role: "Full Stack Engineer + AI Engineer",
+  location: "Lima, Peru",
+  focus: [
+    "Artificial Intelligence",
+    "LLMs & RAG",
+    "Cloud Computing",
+    "Computer Vision",
+    "Production Systems"
+  ],
+  mission: "Transform ideas into software people actually use.",
+  available: true
+};
 
-DESCRIPTION
-       Erasmo Montufar Barrientos
-       Systems Engineer based in Lima, Peru.
+export async function build(idea: Problem) {
+  const model = await train(idea);
+  return deploy({
+    frontend: "Next.js",
+    backend: "FastAPI",
+    cloud: "AWS"
+  });
+}
+```
 
-       Designs and builds production-ready software with a strong
-       focus on Artificial Intelligence, Full Stack Development,
-       Cloud Infrastructure and Developer Experience.
+------------------------------------------------------------------------
 
-       Passionate about transforming complex ideas into products
-       that people actually use.
+## `projects.json`
 
-STACK
-       Languages
-           Python
-           TypeScript
-           JavaScript
-           Kotlin
-           SQL
+``` json
+{
+  "featured": [
+    {
+      "name": "ChevasTextil ERP",
+      "status": "building",
+      "stack": ["Next.js","FastAPI","PostgreSQL","AWS"]
+    },
+    {
+      "name": "Legal AI Peru",
+      "status": "production",
+      "stack": ["Gemini","RAG","Vector DB"]
+    },
+    {
+      "name": "Scientific Dashboard",
+      "status": "production",
+      "stack": ["React","FastAPI","Scikit-Learn"]
+    },
+    {
+      "name": "AWS Vulnerability Scanner",
+      "status": "production",
+      "stack": ["Python","Lambda","boto3"]
+    }
+  ]
+}
+```
 
-       Frontend
-           React
-           Next.js
-           Tailwind CSS
+------------------------------------------------------------------------
 
-       Backend
-           FastAPI
-           Flask
-           Node.js
-           REST APIs
+## `ai.py`
 
-       Artificial Intelligence
-           TensorFlow
-           Scikit-learn
-           MediaPipe
-           LLM Applications
-           RAG Systems
-           Vector Databases
+``` python
+class Engineer:
 
-       Cloud & DevOps
-           AWS
-           Firebase
-           Docker
-           GitHub Actions
+    def __init__(self):
+        self.specialties = [
+            "Machine Learning",
+            "Computer Vision",
+            "LLMs",
+            "RAG",
+            "Cloud AI"
+        ]
 
-       Databases
-           PostgreSQL
-           MongoDB
-           MySQL
-           SQLite
+    def solve(self, problem):
+        return ProductionSoftware(
+            frontend="Next.js",
+            backend="FastAPI",
+            cloud="AWS",
+            ai="TensorFlow"
+        )
+```
 
-       Tools
-           Git
-           Figma
-           Postman
-           VS Code
+------------------------------------------------------------------------
 
-EXAMPLES
-       $ erasmo --build "scientific-dashboard"
-       > React + FastAPI + Scikit-learn
-       > ML dashboard deployed for research laboratories
+## `stack.yml`
 
-       $ erasmo --build "legal-ai-assistant"
-       > Next.js + Gemini + RAG
-       > AI assistant with grounded legal responses
+``` yaml
+languages:
+  - Python
+  - TypeScript
+  - JavaScript
+  - Kotlin
 
-       $ erasmo --build "sign-language-translator"
-       > TensorFlow + MediaPipe + React
-       > Real-time gesture recognition
+frontend:
+  - React
+  - Next.js
+  - Tailwind CSS
 
-       $ erasmo --build "predictive-iot-platform"
-       > Kotlin + Firebase + TensorFlow Lite
-       > Predictive alerts for IoT devices
+backend:
+  - FastAPI
+  - Flask
+  - Node.js
 
-       $ erasmo --build "aws-security-scanner"
-       > Python + AWS Lambda + boto3
-       > Automated cloud vulnerability analysis
+ai:
+  - TensorFlow
+  - Scikit-Learn
+  - MediaPipe
+  - Gemini
+  - OpenAI
 
-FILES
-       /dev/email
-           montufarbe@gmail.com
+cloud:
+  - AWS
+  - Firebase
+  - Docker
 
-       /dev/linkedin
-           linkedin.com/in/erasmomb
+database:
+  - PostgreSQL
+  - MongoDB
+  - MySQL
+```
 
-       /dev/github
-           github.com/ErasmoMB
+------------------------------------------------------------------------
 
-EXIT STATUS
-       0    Ready to build.
-       1    Coffee required.
+## Terminal
 
-SEE ALSO
-       git(1), docker(1), python(1), fastapi(1), react(1), aws(1)
+``` bash
+$ help
 
-AUTHOR
-       Written and maintained by
-       Erasmo Montufar Barrientos.
+about
+projects
+skills
+experience
+contact
+github
+linkedin
+clear
+theme
 
-ERASMO(1)                     July 2026                          ERASMO(1)
+$ whoami
+
+Full Stack Engineer
+AI Engineer
+Cloud Developer
+
+Building AI products for real-world problems.
+
+$ sudo hire erasmo
+
+Permission granted.
+
+Opening contact.md...
+```
+
+------------------------------------------------------------------------
+
+## `contact.md`
+
+``` md
+Email:
+montufarbe@gmail.com
+
+LinkedIn:
+https://linkedin.com/in/erasmomb
+
+GitHub:
+https://github.com/ErasmoMB
+```
