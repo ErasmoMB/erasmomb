@@ -1,57 +1,89 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:14141c&height=140&section=header&text=erasmo-os&fontSize=36&fontColor=00ff9c&animation=fadeIn&fontAlignY=60" width="100%"/>
+# erasmo-mb
+
+<img src="https://img.shields.io/badge/version-4.2.0-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/estado-disponible-brightgreen?style=flat-square" />
+<img src="https://img.shields.io/badge/build-passing-success?style=flat-square" />
+
+<sub>Full-Stack Developer · IA — Lima, Perú</sub>
 
 </div>
 
+<br/>
+
+## CHANGELOG.md
+
+Todos los cambios notables de este perfil, documentados como software.
+
+<br/>
+
+### `[4.2.0]` — 2026-07-02
+**Added**
+- Asesor legal peruano con RAG sobre normativa oficial (Next.js · Gemini · Vector DB) — `groundedness 0.91`, en producción
+
+### `[3.4.0]` — 2025
+**Added**
+- Dashboard ML de KPIs científicos para IntiLab UCH (React · scikit-learn · FastAPI) — `val_accuracy 0.94`, en producción
+- Escáner de vulnerabilidades AWS (Lambda · boto3) con priorización automática por riesgo
+
+### `[3.0.0]` — 2025
+**Added**
+- Traductor de lengua de señas en tiempo real (MediaPipe · TensorFlow) — `accuracy 0.93 @ 30fps`
+- App IoT Android con AR + ML para mantenimiento predictivo (Kotlin · Firebase · ARCore)
+
+**Changed**
+- Mentalidad: de "que funcione" a "que funcione en producción"
+
+### `[2.0.0]` — 2024
+**Added**
+- FastAPI, TensorFlow y AWS al stack principal
+- Primeros proyectos con LLMs y arquitecturas RAG
+
+**Changed**
+- Foco: de desarrollo web genérico → IA aplicada + full-stack
+
+### `[1.0.0]` — 2023
+**Added**
+- Título de Ingeniería de Sistemas
+- Fundamentos: Python, JavaScript, bases de datos relacionales
+
+**Initial commit**
+- La curiosidad de entender cómo funcionan las cosas por dentro
+
+<br/>
+
+## package.json
+
+```json
+{
+  "name": "erasmo-montufar-barrientos",
+  "version": "4.2.0",
+  "location": "Lima, Perú",
+  "dependencies": {
+    "python": "core",
+    "typescript": "core",
+    "react": "^18.0.0",
+    "nextjs": "^14.0.0",
+    "fastapi": "latest",
+    "tensorflow": "^2.x",
+    "scikit-learn": "stable",
+    "aws": "production",
+    "firebase": "production",
+    "postgresql | mongodb | mysql": "as needed"
+  },
+  "devDependencies": {
+    "git": "daily",
+    "vscode": "daily",
+    "figma": "when needed",
+    "postman": "when needed"
+  },
+  "scripts": {
+    "contact:email": "open mailto:montufarbe@gmail.com",
+    "contact:linkedin": "open https://linkedin.com/in/erasmomb",
+    "contact:github": "open https://github.com/ErasmoMB",
+    "availability": "echo 'disponible, respondo en < 24h'"
+  },
+  "license": "abierto-a-buenas-ideas"
+}
 ```
-[erasmo-os] iniciando sistema...
-
-[    0.000001] CPU: Ingeniero de Sistemas detectado (Lima, PE)
-[    0.014221] Cargando módulos del kernel...
-[    0.014300]  → python.ko          [ OK ]
-[    0.021440]  → javascript.ko      [ OK ]
-[    0.028112]  → typescript.ko      [ OK ]
-[    0.033987]  → react.ko  next.ko  [ OK ]
-[    0.040501]  → fastapi.ko flask.ko                [ OK ]
-[    0.052230]  → tensorflow.ko scikit_learn.ko       [ OK ]
-[    0.061903]  → aws.ko firebase.ko                  [ OK ]
-[    0.070118]  → mongodb.ko postgres.ko mysql.ko     [ OK ]
-[    0.081455] Montando /home/erasmo/herramientas (git, vscode, figma, postman)
-[    0.081920] Iniciando servicio: full-stack-dev.service       [ OK ]
-[    0.082004] Iniciando servicio: ml-en-produccion.service     [ OK ]
-[    0.082390] Iniciando servicio: llms-rag.service             [ OK ]
-
-[    0.100010] Montando /proyectos ...
-$ ls -la /proyectos
-
-drwxr-xr-x  dashboard-ml-kpis-cientificos/     val_accuracy=0.94   [PRODUCCIÓN]
-drwxr-xr-x  asesor-legal-peru-rag/             groundedness=0.91   [PRODUCCIÓN]
-drwxr-xr-x  traductor-lengua-de-señas/         accuracy=0.93 30fps [ESTABLE]
-drwxr-xr-x  iot-android-ar-ml/                 alertas=tiempo-real [ESTABLE]
-drwxr-xr-x  aws-vuln-scanner/                  riesgo=priorizado   [ESTABLE]
-drwxr-xr-x  bienestar-emocional-ia/            estado=MVP          [VALIDACIÓN]
-
-[    0.240118] Todos los servicios activos. Sistema listo.
-
-erasmo-os login: visitante
-Last login: hoy desde tu-navegador
-
-erasmo@github:~$ whoami
-Erasmo Montufar Barrientos — Full-Stack Developer · IA
-
-erasmo@github:~$ cat status.txt
-disponible para proyectos donde la IA tenga que funcionar de verdad.
-tiempo de respuesta habitual: < 24h.
-
-erasmo@github:~$ cat contacto.conf
-email    = montufarbe@gmail.com
-linkedin = linkedin.com/in/erasmomb
-github   = github.com/ErasmoMB
-
-erasmo@github:~$ _
-```
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14141c,100:0a0a0f&height=90&section=footer" width="100%"/>
-</div>
