@@ -1,76 +1,57 @@
 <div align="center">
-<sub>who is this guy anyway? try:</sub>
 
-```
-$ man erasmo
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:14141c&height=140&section=header&text=erasmo-os&fontSize=36&fontColor=00ff9c&animation=fadeIn&fontAlignY=60" width="100%"/>
+
 </div>
 
-```groff
-ERASMO(1)                    Manual del Usuario                   ERASMO(1)
-
-NOMBRE
-       erasmo — full-stack developer especializado en IA aplicada
-
-SINOPSIS
-       erasmo [--stack LENGUAJE] [--build IDEA] [--deploy] [--contactar]
-
-DESCRIPCIÓN
-       Erasmo Montufar Barrientos (Lima, Perú). Ingeniero de Sistemas.
-       Convierte problemas reales en productos que funcionan en
-       producción, no en notebooks que nadie vuelve a abrir.
-
-       Su especialidad es el tramo que casi todos evitan: llevar un
-       modelo entrenado hasta una API real, con una interfaz real,
-       usada por gente real.
-
-OPCIONES (stack)
-       -py,  --python           núcleo del backend y del ML
-       -ts,  --typescript       tipado fuerte, menos sorpresas
-       -js,  --javascript       cuando el navegador manda
-           --react, --nextjs    interfaces
-           --fastapi, --flask   APIs
-           --tensorflow         --scikit-learn   modelos
-           --aws  --firebase    despliegue
-           --mongodb --postgres --mysql   persistencia
-           --git --figma --postman --vscode   herramientas de siempre
-
-EJEMPLOS
-       $ erasmo --build "dashboard-ml-kpis-cientificos"
-       > stack: React · Python · scikit-learn · FastAPI
-       > resultado: val_accuracy 0.94 — en producción (IntiLab UCH)
-
-       $ erasmo --build "asesor-legal-peru" --rag
-       > stack: Next.js · Gemini · RAG · Vector DB
-       > resultado: groundedness 0.91 — en producción
-
-       $ erasmo --build "traductor-lengua-de-señas" --realtime
-       > stack: MediaPipe · TensorFlow · React
-       > resultado: accuracy 0.93 · 30 FPS
-
-       $ erasmo --build "iot-android-ar" --predictive
-       > stack: Kotlin · Firebase · ARCore · TF Lite
-       > resultado: alertas predictivas en tiempo real
-
-       $ erasmo --build "aws-vuln-scanner"
-       > stack: AWS · Python · Lambda · boto3
-       > resultado: escaneo automático priorizado por riesgo
-
-ARCHIVOS
-       /dev/email      montufarbe@gmail.com
-       /dev/linkedin   linkedin.com/in/erasmomb
-       /dev/github     github.com/ErasmoMB
-
-ESTADO DE SALIDA
-       0   disponible para nuevos proyectos
-       1   (nunca ha pasado)
-
-VER TAMBIÉN
-       curiosidad(1), café(8), producción(1) — no confundir con demo(1)
-
-AUTOR
-       Escrito y mantenido por Erasmo Montufar Barrientos.
-       Responde en menos de 24h.
-
-ERASMO(1)                     Julio 2026                          ERASMO(1)
 ```
+[erasmo-os] iniciando sistema...
+
+[    0.000001] CPU: Ingeniero de Sistemas detectado (Lima, PE)
+[    0.014221] Cargando módulos del kernel...
+[    0.014300]  → python.ko          [ OK ]
+[    0.021440]  → javascript.ko      [ OK ]
+[    0.028112]  → typescript.ko      [ OK ]
+[    0.033987]  → react.ko  next.ko  [ OK ]
+[    0.040501]  → fastapi.ko flask.ko                [ OK ]
+[    0.052230]  → tensorflow.ko scikit_learn.ko       [ OK ]
+[    0.061903]  → aws.ko firebase.ko                  [ OK ]
+[    0.070118]  → mongodb.ko postgres.ko mysql.ko     [ OK ]
+[    0.081455] Montando /home/erasmo/herramientas (git, vscode, figma, postman)
+[    0.081920] Iniciando servicio: full-stack-dev.service       [ OK ]
+[    0.082004] Iniciando servicio: ml-en-produccion.service     [ OK ]
+[    0.082390] Iniciando servicio: llms-rag.service             [ OK ]
+
+[    0.100010] Montando /proyectos ...
+$ ls -la /proyectos
+
+drwxr-xr-x  dashboard-ml-kpis-cientificos/     val_accuracy=0.94   [PRODUCCIÓN]
+drwxr-xr-x  asesor-legal-peru-rag/             groundedness=0.91   [PRODUCCIÓN]
+drwxr-xr-x  traductor-lengua-de-señas/         accuracy=0.93 30fps [ESTABLE]
+drwxr-xr-x  iot-android-ar-ml/                 alertas=tiempo-real [ESTABLE]
+drwxr-xr-x  aws-vuln-scanner/                  riesgo=priorizado   [ESTABLE]
+drwxr-xr-x  bienestar-emocional-ia/            estado=MVP          [VALIDACIÓN]
+
+[    0.240118] Todos los servicios activos. Sistema listo.
+
+erasmo-os login: visitante
+Last login: hoy desde tu-navegador
+
+erasmo@github:~$ whoami
+Erasmo Montufar Barrientos — Full-Stack Developer · IA
+
+erasmo@github:~$ cat status.txt
+disponible para proyectos donde la IA tenga que funcionar de verdad.
+tiempo de respuesta habitual: < 24h.
+
+erasmo@github:~$ cat contacto.conf
+email    = montufarbe@gmail.com
+linkedin = linkedin.com/in/erasmomb
+github   = github.com/ErasmoMB
+
+erasmo@github:~$ _
+```
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14141c,100:0a0a0f&height=90&section=footer" width="100%"/>
+</div>
