@@ -1,76 +1,113 @@
-<div align="center">
-<sub>who is this guy anyway? try:</sub>
+<div align="center"> <sub><i>who is this guy anyway? try:</i></sub>
 
-```
 $ man erasmo
-```
+
 </div>
 
-```groff
-ERASMO(1)                    Manual del Usuario                   ERASMO(1)
+ERASMO(1)                    Developer Manual                    ERASMO(1)
 
-NOMBRE
-       erasmo — full-stack developer especializado en IA aplicada
+NAME
+       erasmo — Full Stack Engineer focused on AI-powered products
 
-SINOPSIS
-       erasmo [--stack LENGUAJE] [--build IDEA] [--deploy] [--contactar]
+SYNOPSIS
+       erasmo [--build PROJECT] [--stack] [--deploy] [--contact]
 
-DESCRIPCIÓN
-       Erasmo Montufar Barrientos (Lima, Perú). Ingeniero de Sistemas.
-       Convierte problemas reales en productos que funcionan en
-       producción, no en notebooks que nadie vuelve a abrir.
+DESCRIPTION
+       Erasmo Montufar Barrientos
+       Systems Engineer based in Lima, Peru.
 
-       Su especialidad es el tramo que casi todos evitan: llevar un
-       modelo entrenado hasta una API real, con una interfaz real,
-       usada por gente real.
+       Designs and builds production-ready software with a strong
+       focus on Artificial Intelligence, Full Stack Development,
+       Cloud Infrastructure and Developer Experience.
 
-OPCIONES (stack)
-       -py,  --python           núcleo del backend y del ML
-       -ts,  --typescript       tipado fuerte, menos sorpresas
-       -js,  --javascript       cuando el navegador manda
-           --react, --nextjs    interfaces
-           --fastapi, --flask   APIs
-           --tensorflow         --scikit-learn   modelos
-           --aws  --firebase    despliegue
-           --mongodb --postgres --mysql   persistencia
-           --git --figma --postman --vscode   herramientas de siempre
+       Passionate about transforming complex ideas into products
+       that people actually use.
 
-EJEMPLOS
-       $ erasmo --build "dashboard-ml-kpis-cientificos"
-       > stack: React · Python · scikit-learn · FastAPI
-       > resultado: val_accuracy 0.94 — en producción (IntiLab UCH)
+STACK
+       Languages
+           Python
+           TypeScript
+           JavaScript
+           Kotlin
+           SQL
 
-       $ erasmo --build "asesor-legal-peru" --rag
-       > stack: Next.js · Gemini · RAG · Vector DB
-       > resultado: groundedness 0.91 — en producción
+       Frontend
+           React
+           Next.js
+           Tailwind CSS
 
-       $ erasmo --build "traductor-lengua-de-señas" --realtime
-       > stack: MediaPipe · TensorFlow · React
-       > resultado: accuracy 0.93 · 30 FPS
+       Backend
+           FastAPI
+           Flask
+           Node.js
+           REST APIs
 
-       $ erasmo --build "iot-android-ar" --predictive
-       > stack: Kotlin · Firebase · ARCore · TF Lite
-       > resultado: alertas predictivas en tiempo real
+       Artificial Intelligence
+           TensorFlow
+           Scikit-learn
+           MediaPipe
+           LLM Applications
+           RAG Systems
+           Vector Databases
 
-       $ erasmo --build "aws-vuln-scanner"
-       > stack: AWS · Python · Lambda · boto3
-       > resultado: escaneo automático priorizado por riesgo
+       Cloud & DevOps
+           AWS
+           Firebase
+           Docker
+           GitHub Actions
 
-ARCHIVOS
-       /dev/email      montufarbe@gmail.com
-       /dev/linkedin   linkedin.com/in/erasmomb
-       /dev/github     github.com/ErasmoMB
+       Databases
+           PostgreSQL
+           MongoDB
+           MySQL
+           SQLite
 
-ESTADO DE SALIDA
-       0   disponible para nuevos proyectos
-       1   (nunca ha pasado)
+       Tools
+           Git
+           Figma
+           Postman
+           VS Code
 
-VER TAMBIÉN
-       curiosidad(1), café(8), producción(1) — no confundir con demo(1)
+EXAMPLES
+       $ erasmo --build "scientific-dashboard"
+       > React + FastAPI + Scikit-learn
+       > ML dashboard deployed for research laboratories
 
-AUTOR
-       Escrito y mantenido por Erasmo Montufar Barrientos.
-       Responde en menos de 24h.
+       $ erasmo --build "legal-ai-assistant"
+       > Next.js + Gemini + RAG
+       > AI assistant with grounded legal responses
 
-ERASMO(1)                     Julio 2026                          ERASMO(1)
-```
+       $ erasmo --build "sign-language-translator"
+       > TensorFlow + MediaPipe + React
+       > Real-time gesture recognition
+
+       $ erasmo --build "predictive-iot-platform"
+       > Kotlin + Firebase + TensorFlow Lite
+       > Predictive alerts for IoT devices
+
+       $ erasmo --build "aws-security-scanner"
+       > Python + AWS Lambda + boto3
+       > Automated cloud vulnerability analysis
+
+FILES
+       /dev/email
+           montufarbe@gmail.com
+
+       /dev/linkedin
+           linkedin.com/in/erasmomb
+
+       /dev/github
+           github.com/ErasmoMB
+
+EXIT STATUS
+       0    Ready to build.
+       1    Coffee required.
+
+SEE ALSO
+       git(1), docker(1), python(1), fastapi(1), react(1), aws(1)
+
+AUTHOR
+       Written and maintained by
+       Erasmo Montufar Barrientos.
+
+ERASMO(1)                     July 2026                          ERASMO(1)
